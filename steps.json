@@ -1,0 +1,18 @@
+[
+{
+    "steps": 1,
+    "title": "Your info"
+},
+{
+    "steps": 2,
+    "title": "Select plan"
+},
+{
+    "steps": 3,
+    "title": "Add-ons"
+},
+{
+    "steps": 4,
+    "title": "Summary"
+}
+]
