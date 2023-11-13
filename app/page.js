@@ -5,9 +5,10 @@ import sidebar from "public/images/bg-sidebar-desktop.svg";
 import Info from "./Components/info";
 import Stepbar from "./Components/stepbar";
 import Selectplan from "./Components/Selectplan";
-import { Addons } from "./Components/addons";
+import  Addons  from "./Components/addons";
 import { useState } from "react";
 import Finishup from "./Components/finishup";
+
 
 
 export default function Home() {

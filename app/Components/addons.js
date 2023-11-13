@@ -1,7 +1,7 @@
 /** @format */
 import { useState, useEffect } from "react";
 
-export function Addons({formData,setformData}) {
+export default function Addons({formData,setformData}) {
 
     
     const[checkbox1,setCheckbox1] = useState(false);

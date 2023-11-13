@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useState } from "react";
 import Switch from "react-switch";
 
-export default function ({formData,setformData}) {
+export default function Selectplan ({formData,setformData}) {
     const [focusedButton, setFocusedButton] = useState(null);
 
   const handleButtonFocus = (buttonId) => {
